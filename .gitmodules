@@ -1,3 +1,6 @@
 [submodule "hugo-theme-sqldocs"]
 	path = hugo-theme-sqldocs
 	url = /home/daisukey/dev/hugo-theme-sqldocs
+[submodule "hugo-theme-sqlearn1"]
+	path = hugo-theme-sqlearn1
+	url = ../hugo-theme-sqlearn1/
