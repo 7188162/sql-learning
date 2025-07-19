@@ -1,0 +1,16 @@
+# hugo.toml
+
+baseURL = 'https://example.org/'
+languageCode = 'ja-jp'
+title = 'SQL Master Hub'
+theme = 'sqldocs' # 作成したテーマを指定
+alt_theme = 'sqlearn1'
+
+# Goldmarkレンダラー設定
+[markup.goldmark.renderer]
+  # マークダウンファイル内でのHTMLタグ記述を許可する
+  unsafe = true
+
+[markup.highlight]
+  # インラインスタイルを生成せず、CSSクラスを使用するようにする
+  noClasses = false
