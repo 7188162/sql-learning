@@ -4,3 +4,6 @@
 [submodule "hugo-theme-sqlearn1"]
 	path = hugo-theme-sqlearn1
 	url = ../hugo-theme-sqlearn1/
+[submodule "themes/hugo-theme-sqlearn1"]
+	path = themes/hugo-theme-sqlearn1
+	url = https://github.com/7188162/hugo-theme-sqlearn1/
