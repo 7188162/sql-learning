@@ -3,8 +3,8 @@
 baseURL = 'https://example.org/'
 languageCode = 'ja-jp'
 title = 'SQL Master Hub'
-theme = 'sqldocs' # 作成したテーマを指定
-alt_theme = 'sqlearn1'
+alt_theme = 'sqldocs' # 作成したテーマを指定
+theme = 'sqlearn1'
 
 # Goldmarkレンダラー設定
 [markup.goldmark.renderer]
